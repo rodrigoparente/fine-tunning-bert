@@ -1,0 +1,5 @@
+torch
+pandas
+notebook
+scikit-learn
+transformers[torch]
